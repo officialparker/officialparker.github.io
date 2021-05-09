@@ -1,0 +1,15 @@
+/**
+ * index.scss
+ * - Add any styles want here!
+ */
+body {
+  background: #FFB6C1;
+}
+
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: justify;
+}
